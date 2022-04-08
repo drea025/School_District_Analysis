@@ -10,7 +10,9 @@ The overall results did not change darastically from the original report before 
    - The overall passing percentage from Thomas High school decreased by about .10% 
    - The overall school ranking was uneffected. The school sits second on the list with an overall passing rate of about 90% for a charter school.
 <img width="884" alt="PyCityRanking" src="https://user-images.githubusercontent.com/100797549/162354849-bbc2200c-1a9b-4ecd-942a-5588020b1097.png">
+
 ### School Summary
+
 Replacing the scores of the ninth graders' did however change the overall passing percentage for Thomas High School dropping to about 65%. The average scores for math and reading did increase by 0.06 once the ninth grade scores were exluded. 
 
 By delving into this analysis, it can be determined that:
